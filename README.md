@@ -5,13 +5,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 -->
-
-
 Hi, I’m @rapidcow!  Currently a high school student in China.  Mostly 
-self-taught and particularly fond of [Python][].
+self-taught programming amateur and particularly fond of
+[Python](https://www.python.org/).
 
-[python]: https://www.python.org/
-
-You can find me at <eyzmeng@gmail.com> or <2462257029@qq.com>.
-(Yes, I know people normally name their accounts with their real name, but 
-I’ve never collab’d with anyone so far and I’m a total newbie at GitHub...)
+You can find me at <thegentlecow@gmail.com> or <2462257029@qq.com>!
