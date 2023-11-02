@@ -8,8 +8,7 @@ I use for backing up my own diaries][perspective] (written for Python 3).
 If not for its importance I would probably be focusing on something else
 now.  (Just telling you I don’t really have that much time on my hands…)
 
-You can reach me via thegentlecow / eyzmeng at gmail dot com thru email,
-or yizmeng on Discord! :)
+(My email is [dev [at] rapidcow [dot] org](mailto:dev@rapidcow.org)!)
 
 [Python]: https://www.python.org/
 [perspective]: https://github.com/rapidcow/perspective
