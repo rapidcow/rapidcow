@@ -1,14 +1,16 @@
-Hi, I’m Yizheng!  A high school senior passionate about math, art/music,
-CS and many other stuff!  I taught myself [Python][] starting in 2020
-and have been loving it ever since!  (I’ve tried other languages
-but I don’t regularly use any of them, so I won’t brag about them here…)
+I'm Yizheng! aka rapidcow!
 
-The only repo I am vehemently working on is the [Perspective library
-I use for backing up my own diaries][perspective] (written for Python 3).
-If not for its importance I would probably be focusing on something else
-now.  (Just telling you I don’t really have that much time on my hands…)
+I mess with computer sometimes, and I know some stuff I guess.
+I use Python disproportionately and I'm a big fan of anything
+that has to do with free software.
 
-(My email is [dev [at] rapidcow [dot] org](mailto:dev@rapidcow.org)!)
+If you like writing diaries, you might like to hear that
+[I wrote code for it](https://github.com/rapidcow/perspective)!
+(Yes - this is actually what I use. It's pretty much barebone
+but it makes me feel safe since everything is stored as plain-old
+text files.)
 
-[Python]: https://www.python.org/
-[perspective]: https://github.com/rapidcow/perspective
+Also, if you have questions regarding anything I have here,
+please email me at
+[thegentlecow at gmail.com](mailto:thegentlecow@gmail.com).
+(I don't have many friends anyways, so I mean it. Don't feel bad!)
