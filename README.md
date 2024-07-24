@@ -4,22 +4,13 @@ I mess with computer sometimes, and I know some stuff I guess.
 I use Python disproportionately and I'm a big fan of anything
 that has to do with free software.
 
-If you like writing diaries, you might like to hear that I
-wrote code for it! Here is where you can expect to find them:
+I currently don't have any open source projects in mind, at least
+one to which I am certain that I will be able to put in consistent
+commitment.  As such, my repository consists only of forks.
 
-  * <https://git.rapidcow.org/perspective/about/>
-  * <https://codeberg.org/rapidcow/perspective>
-
-**Update**: git.rapidcow.org is closed indefinitely, and
-the Perspective project is (provisionally) restricted to my
-private use.  I kind of forgot why I decided to make my
-repositories public, given that the only reason I did so was
-that people were doing the same on GitHub as an obligatory
-programming "skill" to learn.
-
-The web really is no place for projects this personal:
-you are not my friend, and I am not some saint typing hundreds
-of hours worth of code just to throw it all away and let the
-bots and web crawlers smear my stuff everywhere.  I don't think
-anyone could bear the thought of that happening to something
-they deem important and personal.
+You can reach me via any e-mail you find in the commits I authored,
+with the exception of the ones with a domain of github.com.
+(To check with Git, a ``git log`` suffices.
+To check on GitHub, [append ``.patch`` to the commit URL](https://stackoverflow.com/a/6188624).)
+Otherwise, I think you can use dev (at) (my username) (dot) org.
+Do prefer [sending in plain text](https://useplaintext.email/)!
