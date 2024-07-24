@@ -6,7 +6,8 @@ that has to do with free software.
 
 I currently don't have any open source projects in mind, at least
 one to which I am certain that I will be able to put in consistent
-commitment.  As such, my repository consists only of forks.
+commitment.  As such, there are no public repositories besides forks. :(
+(I'll try to purge inactive forks to clear up workspace, eh....)
 
 You can reach me via any e-mail you find in the commits I authored,
 with the exception of the ones with a domain of github.com.
