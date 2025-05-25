@@ -4,7 +4,7 @@ I mess with computer sometimes, and I know some stuff I guess.
 I use Python disproportionately and I'm a big fan of anything
 that has to do with free software.  (The first piece of information
 is no longer accurate after [issue #121515](https://github.com/python/cpython/issues/121515).
-My language of choice is now Perl 5, the Unix shell, and C.)
+My language of choice is now Perl 5, the Unix shell (``/bin/sh``), and C.)
 
 I currently don't have any open source projects in mind, at least
 one to which I am certain that I will be able to put in consistent
