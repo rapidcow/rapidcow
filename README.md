@@ -13,5 +13,5 @@ You can reach me via any e-mail you find in the commits I authored,
 with the exception of the ones with a domain of github.com.
 (To check with Git, a ``git log`` suffices.
 To check on GitHub, [append ``.patch`` to the commit URL](https://stackoverflow.com/a/6188624).)
-Otherwise, I think you can use dev (at) (my username) (dot) org.
+Otherwise, I think you can use devel (at) (my username) (dot) org.
 Do prefer [sending in plain text](https://useplaintext.email/)!
