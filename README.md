@@ -22,8 +22,8 @@ Please note that I also have a designated email for employment
 (aka j\*b *violent coughing*).  For your reference, it should be
 **hire** (at) (my username) (dot) org, *not* **devel** or
 literally anything else.  And for your reference again,
-www (dot) (my username) (dot) org is not my "personal"
-website; www.endfindme.com.  You will not find a CV there
+www (dot) (my username) (dot) org is **not** my "personal"
+website; www.endfindme.com is.  You will not find a CV there
 (though to be honest, I don't have a CV anywhere yet :P)
 
 People also say I am too young to be hired so keep that in mind.
