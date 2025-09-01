@@ -16,7 +16,7 @@ I prefer [plain text email](https://useplaintext.email/).
 ## ABOUT J\*B
 
 **Employers!**  Please note that I have a separate impersonal
-school / work account **[&#x40;eyzmeng](https://github.com/eyzmeng/)**.
+school / work account **[&#x40;eyzmeng](https://github.com/eyzmeng)**.
 
 Please note that I also have a designated email for employment
 (aka j\*b *violent coughing*).  For your reference, it should be
