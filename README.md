@@ -13,6 +13,16 @@ Otherwise, I think you can use **devel** (at) (my username) (dot) org.
 
 I prefer [plain text email](https://useplaintext.email/).
 
+## credit
+
+My profile picture is somehow [Cain](https://bindingofisaacrebirth.fandom.com/wiki/Cain) here too?
+
+from Ward's Tumblr (i didn't draw him!!!)
+<https://wardenwarp.tumblr.com/post/702862168706744320>
+
+(I have no idea how he got here..... now that he's here I actually
+kind of want to keep him???  ~~he's so adorable omagosh ToT~~)
+
 ## ABOUT J\*B
 
 **Employers!**  Please note that I have a separate impersonal
