@@ -27,7 +27,7 @@ and attach it as a MIME attachment.  I have a very hard time converting
 Outlook's repulsive vomit-inducing inline-CSS-ridden HTML into plain text.
 Please do not use Outlook.  I beg you.  You are better than this.  Ask AI
 or something; you will figure it out, I promise.  If you must, I would much
-prefer that you send the whole email as a plain text *attachment* to you use.
+prefer that you send the whole email as a plain text *attachment*.
 This is not an exaggeration.  Plain text brings me joy.  Microsoft Outlook
 HTML only makes me want to burn the emails which carry such plague with fire.)
 
