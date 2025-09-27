@@ -12,6 +12,24 @@ To check on GitHub, [append ``.patch`` to the commit URL](https://stackoverflow.
 Otherwise, I think you can use **devel** (at) (my username) (dot) org.
 
 I prefer [plain text email](https://useplaintext.email/).
+If you are technical person, I *expect* plain text email.
+Please avoid Microsoft Outlook and consider using a decent mail client.
+(Pro tip: Your mail client (MUA) is a separate software from your mail
+server.  While your university, institution, and/or company may use Outlook,
+you can use a different mail client that is actually good (or at the very
+least, not bad).  Many people use Outlook, thinking it is the only way
+they can interact with their email account; **it is not.**  Mail protocols
+(IMAP/SMTP) exist for that very reason.)
+
+(To technical people again:
+Please do not paste code snippets into Outlook.  Save it as a file,
+and attach it as a MIME attachment.  I have a very hard time converting
+Outlook's repulsive vomit-inducing inline-CSS-ridden HTML into plain text.
+Please do not use Outlook.  I beg you.  You are better than this.  Ask AI
+or something; you will figure it out, I promise.  If you must, I would much
+prefer that you send the whole email as a plain text *attachment* to you use.
+This is not an exaggeration.  Plain text brings me joy.  Microsoft Outlook
+HTML only makes me want to burn the emails which carry such plague with fire.)
 
 ## credit
 
