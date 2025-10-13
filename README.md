@@ -33,7 +33,7 @@ HTML only makes me want to burn the emails which carry such plague with fire.)
 
 ## credit
 
-My profile picture is somehow [Cain](https://bindingofisaacrebirth.fandom.com/wiki/Cain) here too?
+My profile picture is somehow Cain here too?
 
 from Ward's Tumblr (i didn't draw him!!!)
 <https://wardenwarp.tumblr.com/post/702862168706744320>
