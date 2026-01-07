@@ -5,8 +5,8 @@ I use Python and Perl disproportionately (but I am learning Go
 and Rust!) and I'm a big fan of anything that has to do with
 free software.
 
-In the real world I am neither a cow nor so much "rapid"...
-but I don't feel like putting GitHub or scrapers my name here
+In the real world I am neither a cow, nor so much "rapid"....
+But I don't feel like putting GitHub or scrapers my name here
 so ask me if you must. :)
 
 ## credit
