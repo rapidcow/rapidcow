@@ -17,3 +17,7 @@ i am locking my account
 
 in the meantime, for your info: GitHub doesn't run gc and
 you should *not* think that force-pushing deletes objects.
+
+in fact, you should not trust GitHub at all... i just like
+testing the boundaries because i don't mutiliate my commit
+message for anyone. :)
