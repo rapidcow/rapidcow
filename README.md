@@ -10,3 +10,10 @@ github i hate you
 
 
 i am locking my account
+
+
+**update**:  looks like deleting the OpenRC fork did something...
+[i'm writing this up.](https://github.com/orgs/community/discussions/174122#discussioncomment-16592520)
+
+in the meantime, for your info: GitHub doesn't run gc and
+you should *not* think that force-pushing deletes objects.
